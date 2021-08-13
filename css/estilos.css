@@ -1,0 +1,18 @@
+body {
+  background: #f1f1f1;
+}
+
+h4 {
+  text-align: center;
+}
+.caja {
+  background: #ffffff;
+  border: 1px solid #0d6efd;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+.form-label {
+  font-style: italic;
+}
+
